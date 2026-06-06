@@ -1,0 +1,6 @@
+{
+  "installCommand": "cd protogen && npm install",
+  "buildCommand": "cd protogen && npm run build",
+  "outputDirectory": "protogen/dist",
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+}
