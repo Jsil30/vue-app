@@ -12,7 +12,6 @@ function toggleTheme() {
 
 const links = [
   { label: 'Portfolio', url: 'https://example.com', icon: 'mdi-briefcase-variant' },
-  { label: 'Dribbble', url: 'https://dribbble.com', icon: 'mdi-palette' },
   { label: 'LinkedIn', url: 'https://linkedin.com', icon: 'mdi-linkedin' },
   { label: 'Email', url: 'mailto:hello@janisilva.com', icon: 'mdi-email-outline' },
   { label: 'About Me', url: '/about', icon: 'mdi-account-outline' },
